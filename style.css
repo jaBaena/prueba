@@ -12,7 +12,7 @@ body {
   
   .cover{
     height: 200px;
-    background-image:url(/images/cover.jpg);
+    background-image:url(./images/cover.jpg);
     color: white;
     background-size: cover;
     background-position: center;
