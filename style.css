@@ -12,7 +12,7 @@ body {
   
   .cover{
     height: 200px;
-    background-image:url(prueba/images/rsz_christian-wiediger-wkfdrhxdmc8-unsplash.jpg);
+    background-image:url(images/rsz_christian-wiediger-wkfdrhxdmc8-unsplash.jpg);
     color: white;
     background-size: cover;
     background-position: center;
