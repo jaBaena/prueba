@@ -1,0 +1,33 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: helvetica, arial, sans-serif;
+    margin: 0em;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: #373fff;
+  }
+  
+  .cover{
+    height: 200px;
+    background-image:url(https://cdn.glitch.com/fa849578-4659-4f24-ba9b-1a440f8461c8%2Frsz_christian-wiediger-wkfdrhxdmc8-unsplash.jpg?v=1609599191154);
+    color: white;
+    background-size: cover;
+    background-position: center;
+    background-color: rgba(0,0,0,0.5);
+    background-blend-mode: darken;
+  }
+  
+  .cover-small{
+    height: 200px;
+    background-blend-mode: normal;
+    background-size: normal;
+    
+  }
+  
+  .card{
+    border: 0!important;
+    box-shadow: 0 4px 6px -1px rgba(0,0,0,0.1), 0 2px 4px -1px rgba(0,0,0,0.06);
+  }
